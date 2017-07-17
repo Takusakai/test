@@ -2,6 +2,6 @@ class Sample1
 {
 pubric static void main (String[] args)
 {
-System.out.println("‚æ‚¤‚±‚»Java‚ÖI");
+System.out.println("Javaå§‹ã‚ã¾ã—ãŸã€‚");
 }
 }
